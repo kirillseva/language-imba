@@ -1,3 +1,3 @@
-# language-imba package
+# language-imba atom package
 
-A short description of your package.
+Converted from [Sublime package](https://github.com/somebee/sublime-imba)
