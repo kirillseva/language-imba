@@ -1,0 +1,7 @@
+".source.imba:not(.comment, .identifier.singletag, .punctuation, .accessor, .meta.tag)":
+  def:
+    prefix: "def"
+    body: '''
+      def ${1:method_name}
+      	$0
+    '''
